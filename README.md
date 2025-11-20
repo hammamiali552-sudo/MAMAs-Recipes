@@ -1,4 +1,4 @@
-# 🥘 HeritageKitchen: Authentic Culinary Logistics Platform
+# 🥘 MAMAs recipes: Authentic Culinary Logistics Platform
 
 **A centralized web platform bridging the gap between cultural heritage and home dining through a managed culinary supply chain.**
 
